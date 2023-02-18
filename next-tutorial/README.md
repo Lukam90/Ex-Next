@@ -10,7 +10,10 @@ npx create-next-app next-tutorial --use-npm
 
 **Packages**
 
-npm i typescript @types/node @types/react --save-dev
+npm i typescript @types/node @types/react --save-dev<br>
+npm i @types/jsonwebtoken --save-dev
+
+npm i jsonwebtoken
 
 **Start**
 
