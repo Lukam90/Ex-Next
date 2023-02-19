@@ -8,15 +8,11 @@
 
 npx create-next-app next-tutorial
 
-**Packages**
-
-
-
 **Start**
 
 npm run dev
 
-
+**Packages**
 
 
 

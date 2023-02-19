@@ -1,6 +1,6 @@
 const Footer = () => {
     return (
-        <div>Copyright 2023 Ninja List</div>
+        <footer>Copyright 2023 Ninja List</footer>
     );
 }
  
