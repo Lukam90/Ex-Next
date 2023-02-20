@@ -6,6 +6,8 @@ import Head from 'next/head'
 
 import Post from "../components/Post"
 
+import { sortByDate } from "../utils/sort.js"
+
 export default function Home({ posts }) {
 	return (
 		<div>
@@ -44,7 +46,7 @@ export async function getStaticProps() {
 
 	return {
 		props: {
-			posts
+			posts: posts.sort(sortByDate)
 		}
 	}
 }
