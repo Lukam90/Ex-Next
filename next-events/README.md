@@ -11,3 +11,7 @@
 **Run**
 
 `npm run dev`
+
+**Packages**
+
+`npm install mongodb`
