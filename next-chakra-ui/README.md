@@ -1,6 +1,7 @@
 # next-chakra-ui
 
-[Chakra UI + Next JS Quickstart - Build A Personal Website And Blog](https://www.youtube.com/watch?v=lhOvI9s5gQY) de *Benjamin Carlson*
+Chakra UI :
+[How to build a Card Component using Chakra UI](https://www.youtube.com/watch?v=gRSZU4po--g&list=PLLh_woCGjyGrP_pJyoJSt7RsrDDppX7ii&index=1)
 
 ## Commands
 
@@ -11,7 +12,7 @@ npx create-next-app@latest . --use-npm --example "https://github.com/vercel/next
 **Packages**
 
 npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion<br>
-npm i next-google-fonts
+npm i @chakra-ui/next-js @chakra-ui/icons
 
 **Run**
 

@@ -1,9 +1,9 @@
-import Head from 'next/head';
+import { Container } from '@chakra-ui/react'
 
-export default function Home() {
+export default function Index() {
 	return (
-		<>
-			Index
-		</>
+		<Container>
+			<p>Bienvenue sur la page d'accueil</p>
+		</Container>
 	)
 }
